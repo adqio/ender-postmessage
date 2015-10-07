@@ -41,7 +41,7 @@
 
       has_postMessage = window[postMessage];
 
-      fn = {};
+      var fn = {};
 
     // Method: ender.postMessage
     //
