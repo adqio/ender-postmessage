@@ -1,7 +1,7 @@
 {
   "name": "postmessage",
   "description": "Simple and easy window.postMessage communication",
-  "version": "0.1.4"
+  "version": "0.1.4",
   "homepage": "https://github.com/adqio/ender-postmessage",
   "authors": ["Thomas Sturm <@thomassturm>","Jason Fertel <jason@fer.tel>"],
   "repository": {
